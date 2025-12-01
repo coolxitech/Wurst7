@@ -126,7 +126,7 @@
   "description.wurst.setting.follow.filter_invisible": "不会跟随隐形的实体。",
   "description.wurst.setting.follow.filter_armor_stands": "不会跟随盔甲架。",
   "description.wurst.setting.follow.filter_minecarts": "不会跟随矿车。",
-  "description.wurst.hack.forceop": "破解 AuthMe 密码。\n可用于获取 OP (管理员权限)。",
+  "description.wurst.hack.forceop": "暴力破解 AuthMe 密码。\n可用于获取 OP 帐号(仅适合有Authme插件的服务器)。",
   "description.wurst.hack.freecam": "允许您移动相机而无需移动您的角色。",
   "description.wurst.hack.fullbright": "允许您在黑暗中看东西。",
   "description.wurst.hack.glide": "让您在跌落时缓慢滑翔。\n\n§c§l警告:§r 如果您不使用 '无跌落伤害 (NoFall)'，您会受到跌落伤害。",
@@ -321,3 +321,4 @@
   "gui.wurst.generic.allcaps_allowed": "已允许",
   "key.wurst.zoom": "缩放"
 }
+
